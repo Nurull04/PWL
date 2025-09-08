@@ -7,6 +7,6 @@
 ## Cara Menjalankan
 - node T1.mjs
 
-![Screenshot](./images/SS1.png)
-![Screenshot](./images/SS2.png)
+![Screenshot](./images/ss1.png)
+![Screenshot](./images/ss2.png)
 ![Screenshot](./images/SS3.png)

@@ -7,6 +7,6 @@
 ## Cara Menjalankan
 - node T1.mjs
 
-images/SS1.png
-images/SS2.png
-images/SS3.png
+![Alt Text](./images/SS1.png)
+![Alt Text](./images/SS2.png)
+![Alt Text](./images/SS3.png)
